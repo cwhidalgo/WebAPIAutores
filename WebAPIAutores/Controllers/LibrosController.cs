@@ -18,7 +18,16 @@ namespace WebAPIAutores.Controllers
         [HttpGet("{id:int}")]
         public async Task<ActionResult<Libro>> Get(int id)
         {
-            return await context.Libros.Include(x => x.Autor).FirstOrDefaultAsync(x => x.Id == id);
+
+            var respuesta = await context.Libros.Include(x => x.Autor).FirstOrDefaultAsync(x => x.Id == id);
+
+            if (respuesta == null)
+            {
+                return BadRequest($"No existe el libro de Id: {id}");
+            }
+
+            return respuesta;
+
         }
         /*ingresar libro */
         [HttpPost]

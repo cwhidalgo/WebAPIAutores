@@ -2227,11 +2227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WebApis\\ASP.NET Core 6\\Modulo 3 - Creando Nuestro Primer Web API\\Fin\\WebAPIAutores\\WebAPIAutores\\WebAPIAutores.csproj",
+      "projectUniqueName": "C:\\WebApi\\WebAPIAutores\\WebAPIAutores\\WebAPIAutores.csproj",
       "projectName": "WebAPIAutores",
-      "projectPath": "C:\\WebApis\\ASP.NET Core 6\\Modulo 3 - Creando Nuestro Primer Web API\\Fin\\WebAPIAutores\\WebAPIAutores\\WebAPIAutores.csproj",
+      "projectPath": "C:\\WebApi\\WebAPIAutores\\WebAPIAutores\\WebAPIAutores.csproj",
       "packagesPath": "C:\\Users\\jguevara\\.nuget\\packages\\",
-      "outputPath": "C:\\WebApis\\ASP.NET Core 6\\Modulo 3 - Creando Nuestro Primer Web API\\Fin\\WebAPIAutores\\WebAPIAutores\\obj\\",
+      "outputPath": "C:\\WebApi\\WebAPIAutores\\WebAPIAutores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

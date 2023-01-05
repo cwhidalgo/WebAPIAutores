@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "waDTT/sqmejdt8AOSUeqtR8Q3SNjXthOiqulqobrhjYCluwFhkS/ydMp5cwGS0p/UZRAkkjFRki9LJ5+JY1bhA==",
+  "dgSpecHash": "pok+0rodW2AZdbRezbw17l275ruhejpJqxvn4V2IsqtFvx63s1hsOA/Ua36i1zHomwq+20DDXp9b2uCW4yhTMA==",
   "success": true,
-  "projectFilePath": "C:\\WebApis\\ASP.NET Core 6\\Modulo 3 - Creando Nuestro Primer Web API\\Fin\\WebAPIAutores\\WebAPIAutores\\WebAPIAutores.csproj",
+  "projectFilePath": "C:\\WebApi\\WebAPIAutores\\WebAPIAutores\\WebAPIAutores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jguevara\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jguevara\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
